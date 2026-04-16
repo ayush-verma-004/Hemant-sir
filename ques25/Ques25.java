@@ -1,3 +1,5 @@
+package ques25;
+
 public class Ques25 {
     public static void solve(int[] arr, int k) {
         if (arr.length == 0) return;

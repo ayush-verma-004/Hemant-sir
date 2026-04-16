@@ -1,3 +1,5 @@
+package ques9;
+
 public class Ques9 {
     public static int[][] solve(int[] arr) {
         int evenCount = 0, oddCount = 0;

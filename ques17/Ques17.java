@@ -1,3 +1,5 @@
+package ques17;
+
 import java.util.Arrays;
 public class Ques17 {
     public static void solve(int[] arr) {

@@ -1,3 +1,5 @@
+package ques20;
+
 public class Ques20 {
     public static Integer solve(int[] arr) {
         if (arr.length < 2) return null;

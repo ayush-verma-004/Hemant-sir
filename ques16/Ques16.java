@@ -1,3 +1,5 @@
+package ques16;
+
 public class Ques16 {
     public static void solve(int[] arr) {
         if (arr.length <= 1) return;
