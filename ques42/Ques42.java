@@ -1,5 +1,3 @@
-package ques42;
-
 public class Ques42 {
     public static int solve(int[] arr) {
         int res = 0;

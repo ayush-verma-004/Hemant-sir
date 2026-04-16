@@ -1,5 +1,3 @@
-package ques40;
-
 public class Ques40 {
     public static int solve(int[] arr, int n) {
         int sum = n * (n + 1) / 2;

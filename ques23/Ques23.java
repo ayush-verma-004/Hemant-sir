@@ -1,5 +1,3 @@
-package ques23;
-
 public class Ques23 {
     public static void solve(int[] arr) {
         int left = 0, right = arr.length - 1;

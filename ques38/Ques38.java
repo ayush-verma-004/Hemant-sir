@@ -1,5 +1,3 @@
-package ques38;
-
 import java.util.*;
 public class Ques38 {
     public static int[] solve(int[] arr1, int[] arr2) {

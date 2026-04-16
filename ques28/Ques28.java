@@ -1,5 +1,3 @@
-package ques28;
-
 public class Ques28 {
     public static int[] solve(int[] arr) {
         int sumEven = 0, sumOdd = 0;

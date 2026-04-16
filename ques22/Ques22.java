@@ -1,5 +1,3 @@
-package ques22;
-
 import java.util.*;
 public class Ques22 {
     public static Map<Integer, Integer> solve(int[] arr) {

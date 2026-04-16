@@ -1,5 +1,3 @@
-package ques36;
-
 import java.util.*;
 public class Ques36 {
     public static void solve(int[] arr) {

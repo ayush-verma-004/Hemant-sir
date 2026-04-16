@@ -1,5 +1,3 @@
-package ques33;
-
 public class Ques33 {
     public static boolean solve(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {

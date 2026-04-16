@@ -1,5 +1,3 @@
-package ques11;
-
 public class Ques11 {
     public static int[] solve(int[] arr1, int[] arr2) {
         int[] merged = new int[arr1.length + arr2.length];

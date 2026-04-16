@@ -1,5 +1,3 @@
-package ques43;
-
 public class Ques43 {
     public static int solve(int[] arr) {
         int maxSum = Integer.MIN_VALUE, currentSum = 0;

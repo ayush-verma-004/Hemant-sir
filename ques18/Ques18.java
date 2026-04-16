@@ -1,5 +1,3 @@
-package ques18;
-
 import java.util.Arrays;
 public class Ques18 {
     public static void solve(int[] arr) {

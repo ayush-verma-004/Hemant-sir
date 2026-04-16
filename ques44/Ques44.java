@@ -1,5 +1,3 @@
-package ques44;
-
 import java.util.*;
 public class Ques44 {
     public static int solve(int[] arr, int k) {

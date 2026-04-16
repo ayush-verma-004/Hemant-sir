@@ -1,5 +1,3 @@
-package ques12;
-
 public class Ques12 {
     public static boolean solve(int[] arr1, int[] arr2) {
         if (arr1.length != arr2.length) return false;

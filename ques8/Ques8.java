@@ -1,5 +1,3 @@
-package ques8;
-
 public class Ques8 {
     public static int[] solve(int[] arr) {
         int even = 0, odd = 0;

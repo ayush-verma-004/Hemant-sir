@@ -1,5 +1,3 @@
-package ques32;
-
 import java.util.*;
 public class Ques32 {
     public static List<int[]> solve(int[] arr, int sum) {

@@ -1,5 +1,3 @@
-package ques26;
-
 public class Ques26 {
     public static int[] solve(int[] arr) {
         int first = Integer.MIN_VALUE, second = Integer.MIN_VALUE, third = Integer.MIN_VALUE;

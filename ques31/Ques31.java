@@ -1,5 +1,3 @@
-package ques31;
-
 public class Ques31 {
     public static int solve(int[] arr) {
         if (arr.length == 0) return 0;

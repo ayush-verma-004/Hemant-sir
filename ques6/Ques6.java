@@ -1,5 +1,3 @@
-package ques6;
-
 public class Ques6 {
     public static void solve(int[] arr, int oldVal, int newVal) {
         for (int i = 0; i < arr.length; i++) {

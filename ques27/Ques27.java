@@ -1,5 +1,3 @@
-package ques27;
-
 public class Ques27 {
     public static int[] solve(int[] arr) {
         int first = Integer.MAX_VALUE, second = Integer.MAX_VALUE, third = Integer.MAX_VALUE;
