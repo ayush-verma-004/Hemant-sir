@@ -1,3 +1,5 @@
+package ques4;
+
 public class Ques4 {
     public static int solve(int[] arr, int target) {
         for (int i = 0; i < arr.length; i++) {

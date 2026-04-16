@@ -1,3 +1,5 @@
+package ques21;
+
 import java.util.*;
 public class Ques21 {
     public static int[] solve(int[] arr) {

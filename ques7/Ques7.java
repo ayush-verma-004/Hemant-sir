@@ -1,3 +1,5 @@
+package ques7;
+
 public class Ques7 {
     public static boolean solve(int[] arr, int target) {
         for (int num : arr) {

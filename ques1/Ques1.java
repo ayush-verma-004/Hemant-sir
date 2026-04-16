@@ -1,3 +1,5 @@
+package ques1;
+
 public class Ques1 {
     public static int solve(int[] arr) {
         int sum = 0;

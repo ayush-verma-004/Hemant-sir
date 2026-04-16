@@ -1,3 +1,5 @@
+package ques30;
+
 public class Ques30 {
     public static void solve(int[] arr) {
         for (int i = 0; i < arr.length; i++) {

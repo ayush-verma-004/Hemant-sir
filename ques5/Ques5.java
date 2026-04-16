@@ -1,3 +1,5 @@
+package ques5;
+
 public class Ques5 {
     public static int solve(int[] arr, int target) {
         int count = 0;

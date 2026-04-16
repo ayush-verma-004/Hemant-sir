@@ -1,3 +1,5 @@
+package ques35;
+
 public class Ques35 {
     public static void solve(int[] arr) {
         int index = 0;

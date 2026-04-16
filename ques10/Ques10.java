@@ -1,3 +1,5 @@
+package ques10;
+
 public class Ques10 {
     public static int[] solve(int[] arr) {
         int[] copy = new int[arr.length];
