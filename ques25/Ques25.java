@@ -15,7 +15,10 @@ public class Ques25 {
         }
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques25");
+        int[] arr = {1, 2, 3, 4, 5};
+        solve(arr, 2);
+        System.out.println(java.util.Arrays.toString(arr));
     }
 }

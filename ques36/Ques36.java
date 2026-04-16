@@ -18,7 +18,10 @@ public class Ques36 {
         while (j < neg.size()) arr[k++] = neg.get(j++);
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques36");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        solve(arr);
+        System.out.println(java.util.Arrays.toString(arr));
     }
 }

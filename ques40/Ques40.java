@@ -7,7 +7,9 @@ public class Ques40 {
         return sum;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques40");
+        int[] arr = {1, 2, 3, 4, 5};
+        System.out.println(solve(arr, 5));
     }
 }

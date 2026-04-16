@@ -9,7 +9,10 @@ public class Ques12 {
         return true;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques12");
+        int[] arr1 = {1, 2, 3, 4};
+        int[] arr2 = {3, 4, 5, 6};
+        System.out.println(solve(arr1, arr2));
     }
 }

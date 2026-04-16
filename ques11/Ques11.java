@@ -9,7 +9,11 @@ public class Ques11 {
         return merged;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques11");
+        int[] arr1 = {1, 2, 3, 4};
+        int[] arr2 = {3, 4, 5, 6};
+        int[] res = solve(arr1, arr2);
+        System.out.println(java.util.Arrays.toString(res));
     }
 }

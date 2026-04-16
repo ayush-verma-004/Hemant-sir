@@ -9,7 +9,10 @@ public class Ques23 {
         }
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques23");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        solve(arr);
+        System.out.println(java.util.Arrays.toString(arr));
     }
 }

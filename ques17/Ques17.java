@@ -6,7 +6,10 @@ public class Ques17 {
         Arrays.sort(arr);
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques17");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        solve(arr);
+        System.out.println(java.util.Arrays.toString(arr));
     }
 }

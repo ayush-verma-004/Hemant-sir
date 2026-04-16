@@ -10,7 +10,10 @@ public class Ques8 {
         return new int[]{even, odd};
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques8");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        int[] res = solve(arr);
+        System.out.println(java.util.Arrays.toString(res));
     }
 }

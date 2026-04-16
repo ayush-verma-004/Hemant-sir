@@ -17,7 +17,10 @@ public class Ques9 {
         return new int[][]{evens, odds};
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques9");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        int[][] res = solve(arr);
+        System.out.println(java.util.Arrays.deepToString(res));
     }
 }

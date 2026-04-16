@@ -8,7 +8,9 @@ public class Ques33 {
         return true;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques33");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        System.out.println(solve(arr));
     }
 }

@@ -11,7 +11,9 @@ public class Ques31 {
         return max - min;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques31");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        System.out.println(solve(arr));
     }
 }

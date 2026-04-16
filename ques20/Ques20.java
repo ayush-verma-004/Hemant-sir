@@ -15,7 +15,9 @@ public class Ques20 {
         return secondMin == Integer.MAX_VALUE ? null : secondMin;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques20");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        System.out.println(solve(arr));
     }
 }

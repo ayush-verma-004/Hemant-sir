@@ -13,7 +13,9 @@ public class Ques37 {
         return count > arr.length / 2 ? candidate : null;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques37");
+        int[] arr = {1, 2, 3, 4, 5, -1, 0, 2};
+        System.out.println(solve(arr));
     }
 }

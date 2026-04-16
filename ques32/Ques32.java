@@ -14,7 +14,10 @@ public class Ques32 {
         return pairs;
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques32");
+        int[] arr = {1, 2, 3, 4, 5};
+        java.util.List<int[]> res = solve(arr, 5);
+        for(int[] r : res) System.out.println(java.util.Arrays.toString(r));
     }
 }

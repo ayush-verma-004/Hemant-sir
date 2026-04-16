@@ -7,7 +7,10 @@ public class Ques6 {
         }
     }
 
+
     public static void main(String[] args) {
-        System.out.println("Execution of Ques6");
+        int[] arr = {1, 2, 3, 4, 2, 5};
+        solve(arr, 2, 99);
+        System.out.println(java.util.Arrays.toString(arr));
     }
 }
